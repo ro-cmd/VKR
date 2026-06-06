@@ -1,0 +1,27 @@
+{
+  "source_crs": "EPSG:3857",
+  "target_crs": "EPSG:3857",
+  "quality_profile": "standard",
+  "max_z_sigma": 3.5,
+  "max_planar_jump": 10.0,
+  "min_point_spacing": 0.2,
+  "connect_codes": [
+    "BASE",
+    "EXC_01",
+    "EXC_02",
+    "FIND_BONE",
+    "FIND_CERAMIC",
+    "FIND_FLINT",
+    "STAIN_01",
+    "STAIN_02"
+  ],
+  "center_keywords": "центр,center",
+  "title": "Archaeological Survey",
+  "output_dir": "C:\\Users\\artem\\OneDrive\\Рабочий стол\\Roma_VKR\\output",
+  "write_summary": 1,
+  "write_quality": 1,
+  "plots_enabled": 1,
+  "interactive_3d": 1,
+  "basemap": 1,
+  "auto_levels": false
+}
